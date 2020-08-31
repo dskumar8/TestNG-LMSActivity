@@ -1,2 +1,3 @@
 # TestNG-LMSActivity
-LMS Activity 
+LMS Activity testcases source file
+Reporting needs to be implemented
